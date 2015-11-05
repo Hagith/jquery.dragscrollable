@@ -1,6 +1,6 @@
 {
   "name": "jquery.dragscrollable",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Jquery library that adds the ability to manage elements scroll by dragging one or more of its descendant elements.",
   "main": "dragscrollable.js",
   "scripts": {

@@ -23,9 +23,13 @@ respond to the drag events.
 
 > Prevents the event to propagate further effectivey dissabling other default actions. Defaults to true
 
-**allowY**
+**threshold**
 
-> Allow draggscrolling Y-axis? Defaults to true
+> Defines threshold for "dragscroll" event (in pixels).
+
+**axis**
+
+> Defines which axis should be scrollable 'x', 'y' or 'both'. Defaults to 'both'.
 
 ###usage examples:
 
